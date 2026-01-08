@@ -11,3 +11,5 @@ These examples reflect typical Tier 1 helpdesk tasks and demonstrate my ability 
 - Startup slow performance troubleshooting
 - Operating system identification
 - Hardware vs software issue diagnosis
+  
+*Module completed as part of the Google IT Support Professional Certificate.*
