@@ -1,5 +1,5 @@
-**Module 1 Summary – IT Support**
-## Module 1 Summary – IT Support Fundamentals
+**Module 1 – IT Support**
+## Module 1 Summary 
 
 Module 1 focused on the core responsibilities of an entry-level IT Support / Helpdesk role, including basic troubleshooting, operating system fundamentals, and clear communication with users.
 
