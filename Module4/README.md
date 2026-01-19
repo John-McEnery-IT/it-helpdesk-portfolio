@@ -1,3 +1,4 @@
+# Module 4 – Security and System Administration
 
 ## Module 4 Summary
 Module 4 focused on core security principles and system administration practices commonly handled by Tier 1 IT support technicians. Topics included user account security, least-privilege access, threat awareness, and appropriate incident response procedures.
